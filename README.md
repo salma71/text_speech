@@ -1,6 +1,6 @@
 # Text to Speech using Gradio
 
-[Main image](/Users/salmaelshahawy/Desktop/text_speech/main.png)
+![Main image](main.png)
 
 Convert pdf files into spoken audio using google text to speech package and building a user-friendly ready-made interface using [Gradio package](https://www.gradio.app/). 
 
